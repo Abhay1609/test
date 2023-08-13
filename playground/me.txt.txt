@@ -1,0 +1,3 @@
+Name: Abhay Pratap
+Skills: HTML,CSS,Python,Django,React.js
+Email:abhaypratap9848@gmail.com
